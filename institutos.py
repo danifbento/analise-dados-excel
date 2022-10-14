@@ -1,5 +1,6 @@
 import openpyxl
 import unidecode
+
 wb = openpyxl.load_workbook("WCNeutras_respostas_full.xlsx")
 
 ws = wb['Sheet1']
@@ -31,7 +32,10 @@ c_header = C[0].value
 other_instituto = {}
 
 mapping = {}
-mapping['up'] = 'universidade do porto'
+mapping['up'] = 'universidade porto'
+mapping['ul'] = 'universidade lisboa'
+mapping['iade'] = 'faculdade de design tecnologia comunicacao'
+mapping['ismai'] = 'universidade maia'
 mapping['ips'] = 'instituto politecnico setubal'
 mapping['ufp'] = 'universidade fernando pessoa'
 mapping['isel'] = 'instituto superior engenharia lisboa'
@@ -50,6 +54,10 @@ mapping['ulisboa'] = 'universidade lisboa'
 mapping['university'] = 'universidade'
 mapping['lisbon'] = 'lisboa'
 mapping['ubi'] = 'universidade beira interior'
+mapping['iul'] = 'instituto universitario de lisboa'
+mapping['ipc'] = 'instituto politecnico de coimbra'
+mapping['faul'] = 'faculdade arquitectura universidade lisboa'
+mapping['sst'] = 'school science technology'
 
 count = 0
 for cell in C:
@@ -58,15 +66,28 @@ for cell in C:
 
     s = str(cell.value).lower().strip()
     s = unidecode.unidecode(s)
-    s = s.replace("  ", " ")
     s = s.replace(":", "")
     s = s.replace(" da ", " ")
     s = s.replace(" do ", " ")
     s = s.replace(" de ", " ")
     s = s.replace(" - ", " ")
+    s = s.replace("-", " ")
+    s = s.replace(".", " ")
+    s = s.replace("  ", " ")
 
     if s in mapping.keys():
         s = mapping[s]
+
+    c = s.split(" ")
+
+    for idx in range(len(c)):
+        c[idx] = c[idx].replace(":", "")
+        c[idx] = c[idx].replace("-", "")
+        c[idx] = c[idx].replace(" ", "")
+        if c[idx] in mapping.keys():
+            c[idx] = mapping[c[idx]]
+
+    s = " ".join(c)
 
     if s in other_instituto.keys():
         continue
@@ -74,8 +95,9 @@ for cell in C:
     other_instituto[s] = cell.value
     count+=1
 
-for k in other_instituto.keys():
-    print(other_instituto[k], " -> ", k)
+print ("{:<100} {:<100}".format('Original', 'Final'))
+for k,v in other_instituto.items():
+    print ("{:<100} {:<100}   ".format(v, k))
 
 print("===")
 print(count)
