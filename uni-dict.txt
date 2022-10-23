@@ -1,0 +1,792 @@
+{
+  "iscte": [
+    "instituto universitario lisboa",
+    "iul",
+    "instituto universitario lisboa (sintra)",
+    "iul("
+  ],
+  "universidade lisboa": [
+    "ul",
+    "faculdade arquitetura universidade lisboa",
+    "faul",
+    "faculdade belas artes universidade lisboa",
+    "fbaul",
+    "faculdade ciencias universidade lisboa",
+    "fcul",
+    "faculdade direito universidade lisboa",
+    "fdul",
+    "faculdade farmacia universidade lisboa",
+    "fful",
+    "faculdade letras universidade lisboa",
+    "flul",
+    "faculdade medicina universidade lisboa",
+    "fmul",
+    "faculdade medicina dentaria universidade lisboa",
+    "fmdul",
+    "faculdade medicina veterinaria universidade lisboa",
+    "fmvul",
+    "faculdade motricidade humana universidade lisboa",
+    "fmhul",
+    "faculdade psicologia universidade lisboa",
+    "fpul",
+    "instituto educacao",
+    "ieul",
+    "ie",
+    "instituto geografia e ordenamento territorio",
+    "igotul",
+    "igot",
+    "instituto superior agronomia",
+    "isaul",
+    "isa",
+    "instituto superior ciencias sociais e politicas",
+    "iscspul",
+    "iscsp",
+    "instituto superior economia e gestao",
+    "isegul",
+    "iseg",
+    "instituto superior tecnico",
+    "istul",
+    "ist",
+    "instituto superior tecnico tagus park",
+    "isttpul",
+    "isttp"
+  ],
+  "universidade nova lisboa": [
+    "unl",
+    "faculdade ciencias medicas universidade nova lisboa",
+    "fcmunl",
+    "faculdade ciencias sociais e humanas universidade nova lisboa",
+    "fcshunl",
+    "faculdade direito universidade nova lisboa",
+    "fdunl",
+    "faculdade economia universidade nova lisboa",
+    "feunl",
+    "instituto superior estatistica e gestao informacao",
+    "isegiunl",
+    "isegi",
+    "faculdade ciencias e tecnologia universidade nova lisboa",
+    "fctunl"
+  ],
+  "escola superior enfermagem lisboa": [
+    "esel"
+  ],
+  "escola superior hotelaria e turismo estoril": [
+    "eshte"
+  ],
+  "escola superior nautica infante henrique": [
+    "esnih"
+  ],
+  "instituto politecnico lisboa": [
+    "ipl",
+    "escola superior comunicacao social",
+    "escs",
+    "escola superior danca",
+    "esd",
+    "escola superior educacao",
+    "ese",
+    "escola superior musica",
+    "esm",
+    "escola superior teatro e cinema",
+    "estc",
+    "escola superior tecnologia saude lisboa",
+    "estsl",
+    "instituto superior contabilidade e administracao lisboa",
+    "iscal",
+    "instituto superior engenharia lisboa",
+    "isel"
+  ],
+  "instituto superior ciencias policiais e seguranca interna": [
+    "iscpsi"
+  ],
+  "instituto universitario militar": [
+    "ium",
+    "academia forca aerea",
+    "afa",
+    "academia militar",
+    "am",
+    "escola naval",
+    "en"
+  ],
+  "atlantica": [
+    "instituto universitario",
+    "iu"
+  ],
+  "instituto superior gestao": [
+    "isg"
+  ],
+  "ispa": [
+    "instituto universitario ciencias psicologicas, sociais e vida",
+    "iucpsv"
+  ],
+  "universidade autonoma lisboa luis camoes": [
+    "uallc"
+  ],
+  "universidade catolica portuguesa": [
+    "ucp",
+    "faculdade ciencias economicas e empresariais universidade catolica portuguesa",
+    "fceeucp",
+    "faculdade ciencias humanas universidade catolica portuguesa",
+    "fchucp",
+    "faculdade direito universidade catolica portuguesa",
+    "fducp",
+    "faculdade medicina universidade catolica portuguesa",
+    "fmucp",
+    "faculdade teologia universidade catolica portuguesa",
+    "ftucp",
+    "instituto estudos politicos",
+    "iepucp",
+    "iep",
+    "faculdade filosofia e ciencias sociais universidade catolica portuguesa",
+    "ffcsucp",
+    "escola artes",
+    "eaucp",
+    "ea",
+    "escola superior biotecnologia",
+    "esbucp",
+    "esb",
+    "faculdade direito porto universidade catolica portuguesa",
+    "fdpucp",
+    "faculdade economia e gestao universidade catolica portuguesa",
+    "fegucp",
+    "faculdade educacao e psicologia universidade catolica portuguesa",
+    "fepucp"
+  ],
+  "universidade europeia": [
+    "ue"
+  ],
+  "universidade lusiada": [
+    // duplicado ul uni lisboa"
+    "ul",
+    "centro universitario lusiada lisboa",
+    "cullul",
+    "cull",
+    "centro universitario lusiada norte",
+    "culnul",
+    "culn",
+    "centro universitario lusiada porto",
+    "culpul",
+    "culp"
+  ],
+  "universidade lusofona humanidades e tecnologias": [
+    "ulht"
+  ],
+  "academia nacional superior orquestra": [
+    "anso"
+  ],
+  "escola superior actividades imobiliarias": [
+    "esai"
+  ],
+  "escola superior educacao joao deus": [
+    "esejd"
+  ],
+  "escola superior enfermagem sao francisco das misericordias": [
+    "esesfdm"
+  ],
+  "escola superior saude alcoitao": [
+    "essa"
+  ],
+  "escola superior saude atlantica": [
+    // duplicado esc superior saude alcoitao"
+    "essa"
+  ],
+  "escola superior saude cruz vermelha portuguesa": [
+    "esscvp",
+    "alto tamega",
+    "at"
+  ],
+  "instituto politecnico lusofonia": [
+    // duplicado inst politecnico lisboa"
+    "ipl",
+    "escola superior ciencias administracao",
+    "esca",
+    "escola superior comunicacao, inovacao e artes",
+    "escia",
+    "escola superior educacao lusofonia",
+    // duplicado esc superior enfermagem lisboa"
+    "esel",
+    "escola superior saude, protecao e bem estar animal",
+    "esspbea",
+    "escola superior saude ribeiro sanches",
+    "essrs"
+  ],
+  "instituto portugues administracao marketing lisboa": [
+    "ipaml"
+  ],
+  "instituto superior tecnologias avancadas lisboa": [
+    "istal"
+  ],
+  "isce": [
+    "instituto superior lisboa e vale tejo",
+    "islvt"
+  ],
+  "isec lisboa": [
+    "il",
+    "instituto superior educacao e ciencias",
+    "isec"
+  ],
+  "universidade aveiro": [
+    "ua",
+    "escola superior design, gestao e tecnologia producao aveiro norte",
+    "esdgtpanua",
+    "esdgtpan",
+    "escola superior saude aveiro",
+    "essaua",
+    // duplicado escola superior saude atlantica, alcoitao"
+    "essa",
+    "escola superior tecnologia e gestao agueda",
+    "estgaua",
+    "estga",
+    "instituto superior contabilidade e administracao aveiro",
+    "iscaaua",
+    "iscaa"
+  ],
+  "escola superior saude norte cruz vermelha portuguesa": [
+    "essncvp"
+  ],
+  "instituto superior ciencias informacao e administracao": [
+    "iscia"
+  ],
+  "instituto superior entre douro e vouga": [
+    "isedv"
+  ],
+  "instituto politecnico beja": [
+    "ipb",
+    "escola superior agraria",
+    "esa",
+    // duplicado escola superior educacao inst politecnico lisboa",
+    "escola superior educacao",
+    "ese",
+    "escola superior saude",
+    "ess",
+    "escola superior tecnologia e gestao",
+    "estg"
+  ],
+  "universidade minho": [
+    "um",
+    "escola superior enfermagem",
+    "eseum",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa",
+    "ese"
+  ],
+  "instituto politecnico cavado e ave": [
+    "ipca",
+    "escola superior design",
+    "esd",
+    "escola superior gestao",
+    "esg",
+    "escola superior hotelaria e turismo",
+    "esht",
+    "escola superior tecnologia",
+    "est"
+  ],
+  "cespu": [
+    "instituto politecnico saude norte",
+    "ipsn"
+  ],
+  "escola superior educacao fafe": [
+    "esef"
+  ],
+  "escola superior tecnologias fafe": [
+    "estf"
+  ],
+  "isave": [
+    "instituto superior saude",
+    "iss"
+  ],
+  "instituto politecnico braganca": [
+    // duplicado inst politecnico beja",
+    "ipb",
+    "escola superior agraria braganca",
+    "esab",
+    "escola superior comunicacao, administracao e turismo mirandela",
+    "escatm",
+    "escola superior educacao braganca",
+    "eseb",
+    "escola superior saude braganca",
+    "essb",
+    "escola superior tecnologia e gestao braganca",
+    "estgb"
+  ],
+  "universidade beira interior": [
+    "ubi"
+  ],
+  "instituto politecnico castelo branco": [
+    "ipcb",
+    "escola superior agraria castelo branco",
+    "esacb",
+    "escola superior artes aplicadas",
+    "esaa",
+    "escola superior educacao castelo branco",
+    "esecb",
+    "escola superior gestao idanha a-nova",
+    "esgia",
+    "escola superior saude dr. lopes dias",
+    "essdld",
+    "escola superior tecnologia castelo branco",
+    "estcb"
+  ],
+  "universidade coimbra": [
+    "uc",
+    "faculdade ciencias desporto e educacao fisica universidade coimbra",
+    "fcdefuc",
+    "faculdade ciencias e tecnologia universidade coimbra",
+    "fctuc",
+    "faculdade direito universidade coimbra",
+    "fduc",
+    "faculdade economia universidade coimbra",
+    "feuc",
+    "faculdade farmacia universidade coimbra",
+    "ffuc",
+    "faculdade letras universidade coimbra",
+    "fluc",
+    "faculdade medicina universidade coimbra",
+    "fmuc",
+    "faculdade psicologia e ciencias educacao universidade coimbra",
+    "fpceuc"
+  ],
+  "escola superior enfermagem coimbra": [
+    "esec"
+  ],
+  "instituto politecnico coimbra": [
+    "ipc",
+    "escola superior agraria coimbra",
+    "esac",
+    "escola superior educacao coimbra",
+    // duplicado escola superior enfermagem coimbra",
+    "esec",
+    "escola superior tecnologia e gestao oliveira hospital",
+    "estgoh",
+    "escola superior tecnologia saude coimbra",
+    "estsc",
+    "instituto superior contabilidade e administracao coimbra",
+    "iscac",
+    "instituto superior engenharia coimbra",
+    // duplicado instituto superior educacao e ciencias lisboa",
+    "isec"
+  ],
+  "escola universitaria vasco gama": [
+    "euvg"
+  ],
+  "instituto superior miguel torga": [
+    "ismt"
+  ],
+  "universidade evora": [
+    "ue",
+    // duplicado escola artes universidade catolica portuguesa",
+    "escola artes",
+    "eaue",
+    // duplicado escola artes universidade catolica portuguesa",
+    "ea",
+    "escola ciencias sociais",
+    "ecsue",
+    "ecs",
+    "escola ciencias e tecnologia",
+    "ectue",
+    "ect",
+    "escola saude e desenvolvimento humano",
+    "esdhue",
+    "esdh",
+    "escola superior enfermagem sao joao deus",
+    "esesjdue",
+    "esesjd"
+  ],
+  "universidade algarve": [
+    // duplicado universidade aveiro",
+    "ua",
+    "faculdade ciencias humanas e sociais universidade algarve",
+    "fchsua",
+    "faculdade ciencias e tecnologia universidade algarve",
+    "fctua",
+    "faculdade economia universidade algarve",
+    "feua",
+    "faculdade medicina e ciencias biomedicas universidade algarve",
+    "fmcbua",
+    "escola superior educacao e comunicacao",
+    "esecua",
+    "esec",
+    "escola superior gestao, hotelaria e turismo",
+    "esghtua",
+    "esght",
+    "escola superior gestao, hotelaria e turismo portimao",
+    // duplicado siglas imediatamente acima",
+    "esghtua",
+    "esght",
+    // duplicado escola superior saude inst politecnico beja",
+    "escola superior saude",
+    "essua",
+    // duplicado escola superior saude inst politecnico beja",
+    "ess",
+    "instituto superior engenharia",
+    "iseua",
+    "ise"
+  ],
+  "instituto superior manuel teixeira gomes": [
+    "ismtg"
+  ],
+  "instituto politecnico jean piaget sul": [
+    "ipjps",
+    "escola superior saude jean piaget algarve",
+    "essjpa",
+    "escola superior educacao jean piaget almada",
+    // duplicado escola sup educacao algarve",
+    "esejpa",
+    "escola superior tecnologia e gestao jean piaget",
+    "estgjp"
+  ],
+  "instituto politecnico guarda": [
+    "ipg",
+    "escola superior educacao, comunicacao e desporto",
+    "esecd",
+    "escola superior saude guarda",
+    "essg",
+    // duplicado estg inst politecnico beja",
+    "escola superior tecnologia e gestao",
+    // duplicado estg inst politecnico beja",
+    "estg",
+    "escola superior turismo e hotelaria",
+    "esth"
+  ],
+  "instituto politecnico leiria": [
+    // duplicado inst politecnico lusofonia, inst politecnico lisboa",
+    "ipl",
+    "escola superior artes e design",
+    "esad",
+    "escola superior educacao e ciencias sociais",
+    "esecs",
+    // duplicado escola superior saude inst politecnico beja, uni algarve",
+    "escola superior saude",
+    // duplicado escola superior saude inst politecnico beja, uni algarve",
+    "ess",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, inst politecnico guarda",
+    "escola superior tecnologia e gestao",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, inst politecnico guarda",
+    "estg",
+    "escola superior turismo e tecnologia mar",
+    "esttm"
+  ],
+  "instituto superior dinis": [
+    "isd"
+  ],
+  "instituto politecnico portalegre": [
+    "ipp",
+    "escola superior agraria elvas",
+    "esae",
+    // duplicado inst politecnico leiria",
+    "escola superior educacao e ciencias sociais",
+    // duplicado inst politecnico leiria",
+    "esecs",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria",
+    "escola superior saude",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria",
+    "ess",
+    // duplicado estg inst politecnico beja, inst politecnico guarda, inst politecnico leiria",
+    "escola superior tecnologia e gestao",
+    // duplicado estg inst politecnico beja, inst politecnico guarda, inst polit leiria",
+    "estg"
+  ],
+  "universidade porto": [
+    "up",
+    "faculdade arquitetura universidade porto",
+    "faup",
+    "faculdade belas artes universidade porto",
+    "fbaup",
+    "faculdade ciencias universidade porto",
+    "fcup",
+    "faculdade ciencias nutricao e alimentacao universidade porto",
+    "fcnaup",
+    "faculdade desporto universidade porto",
+    "fadeup",
+    "faculdade direito universidade porto",
+    "fdup",
+    "faculdade economia universidade porto",
+    "fep",
+    "faculdade engenharia universidade porto",
+    "feup",
+    "faculdade farmacia universidade porto",
+    "ffup",
+    "faculdade letras universidade porto",
+    "flup",
+    "faculdade medicina universidade porto",
+    "fmup",
+    "faculdade medicina dentaria universidade porto",
+    "fmdup",
+    "faculdade psicologia e ciencias educacao universidade porto",
+    "fpceup",
+    "instituto ciencias biomedicas abel salazar",
+    "icbasup",
+    "icbas"
+  ],
+  "escola superior enfermagem porto": [
+    "esep"
+  ],
+  "instituto politecnico porto": [
+    // duplicado inst politecnico portalegre",
+    "ipp",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa, u minho",
+    "escola superior educacao",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa, u minho",
+    "ese",
+    // duplicado inst politecnico cavado e ave",
+    "escola superior hotelaria e turismo",
+    // duplicado inst politecnico cavado e ave",
+    "esht",
+    "escola superior media artes e design",
+    "esmad",
+    "escola superior musica e artes espectaculo",
+    "esmae",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria, inst polit portalegre",
+    "escola superior saude",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria, inst polit portalegre",
+    "ess",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre",
+    "escola superior tecnologia e gestao",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre",
+    "estg",
+    "instituto superior contabilidade e administracao porto",
+    "iscap",
+    "instituto superior engenharia porto",
+    "isep"
+  ],
+  "escola superior artistica porto": [
+    "esap"
+  ],
+  "instituto superior servico social porto": [
+    "isssp"
+  ],
+  "instituto universitario ciencias saude": [
+    "iucs"
+  ],
+  "universidade fernando pessoa": [
+    "ufp",
+    "escola superior saude fundacao fernando pessoa",
+    "essfpufp",
+    "essfp"
+  ],
+  "universidade lusofona porto": [
+    "ulp"
+  ],
+  "universidade maia": [
+    // duplicado u minho",
+    "um"
+  ],
+  "universidade portucalense infante henrique": [
+    "upih"
+  ],
+  "escola superior artes e design": [
+    // duplicado esad politecnico leiria",
+    "esad"
+  ],
+  "escola superior educacao paula frassinetti": [
+    "esepf"
+  ],
+  "escola superior negocios atlantico": [
+    "esna"
+  ],
+  "escola superior saude santa maria": [
+    "esssm"
+  ],
+  "instituto politecnico jean piaget norte": [
+    "ipjpn",
+    "escola superior desporto e educacao jean piaget vila nova gaia",
+    "esdejpvng",
+    "escola superior saude jean piaget vila nova gaia",
+    "essjpvng"
+  ],
+  "instituto politecnico maia": [
+    "ipm",
+    "escola superior ciencias sociais educacao e desporto",
+    "escsed",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre, polit porto",
+    "escola superior tecnologia e gestao",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre, polit porto",
+    "estg"
+  ],
+  "instituto politecnico saude norte": [
+    "ipsn",
+    "cespu",
+    "cespu"
+  ],
+  "instituto portugues administracao marketing porto": [
+    "ipamp"
+  ],
+  "instituto superior administracao e gestao": [
+    "isag"
+  ],
+  "instituto superior ciencias educativas douro": [
+    "isced"
+  ],
+  "instituto superior ciencias empresariais e turismo": [
+    "iscet"
+  ],
+  "instituto superior politecnico gaya": [
+    "ispg",
+    "escola superior ciencia e tecnologia",
+    "esct",
+    "escola superior ciencias empresariais",
+    "esce"
+  ],
+  "instituto superior tecnologias avancadas porto (istec porto)": [
+    "istapip"
+  ],
+  "isla": [
+    "instituto politecnico gestao e tecnologia",
+    "ipgt",
+    "instituto superior gestao e administracao santarem",
+    "isgas"
+  ],
+  "instituto politecnico santarem": [
+    "ips",
+    "escola superior agraria santarem",
+    "esas",
+    "escola superior desporto rio maior",
+    "esdrm",
+    "escola superior educacao santarem",
+    "eses",
+    "escola superior gestao e tecnologia santarem",
+    "esgts",
+    "escola superior saude santarem",
+    "esss"
+  ],
+  "instituto politecnico tomar": [
+    "ipt",
+    "escola superior gestao tomar",
+    "esgt",
+    "escola superior tecnologia abrantes",
+    "esta",
+    "escola superior tecnologia tomar",
+    "estt"
+  ],
+  "instituto politecnico setubal": [
+    // duplicado inst polit santarem",
+    "ips",
+    // duplicado inst sup politec gaya",
+    "escola superior ciencias empresariais",
+    // duplicado inst sup politec gaya",
+    "esce",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa, u minho, inst politec porto",
+    "escola superior educacao",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa, u minho, inst politec porto",
+    "ese",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria, portalegre, porto",
+    "escola superior saude",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria, portalegre, porto",
+    "ess",
+    "escola superior tecnologia barreiro",
+    "estb",
+    "escola superior tecnologia setubal",
+    "ests"
+  ],
+  "instituto superior estudos interculturais e transdisciplinares almada": [
+    "iseita"
+  ],
+  "instituto universitario egas moniz": [
+    "iuem"
+  ],
+  "escola superior saude egas moniz": [
+    "essem"
+  ],
+  "instituto politecnico viana castelo": [
+    "ipvc",
+    // duplicado inst politec beja",
+    "escola superior agraria",
+    // duplicado inst politec beja",
+    "esa",
+    // duplicado inst sup politec gaya, inst politec setubal",
+    "escola superior ciencias empresariais",
+    // duplicado inst sup politec gaya, inst politec setubal",
+    "esce",
+    "escola superior desporto e lazer",
+    "esdl",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa, u minho, inst politec porto, setubal",
+    "escola superior educacao",
+    // duplicado escola superior educacao inst politecnico beja, inst politecnico lisboa, u minho, inst politec porto, setubal",
+    "ese",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria, portalegre, porto, setubal",
+    "escola superior saude",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politecnico leiria, portalegre, porto, setubal",
+    "ess",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre, polit porto, maia",
+    "escola superior tecnologia e gestao",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre, polit porto, maia",
+    "estg"
+  ],
+  "universidade tras os montes e alto douro": [
+    "utad",
+    "escola ciencias agrarias e veterinarias",
+    "ecav",
+    "ecav",
+    "escola ciencias humanas e sociais",
+    "echs",
+    // duplicado uni evora",
+    "escola ciencias e tecnologia",
+    // duplicado uni evora",
+    "ect",
+    "escola ciencias vida e ambiente",
+    "ecva",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politec leiria, portalegre, porto, setubal, viana do castelo",
+    "escola superior saude",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politec leiria, portalegre, porto, setubal, viana do castelo",
+    "ess"
+  ],
+  "instituto politecnico viseu": [
+    "ipv",
+    "escola superior agraria viseu",
+    "esav",
+    "escola superior educacao viseu",
+    "esev",
+    "escola superior saude viseu",
+    "essv",
+    "escola superior tecnologia e gestao lamego",
+    "estgl",
+    "escola superior tecnologia e gestao viseu",
+    "estgv"
+  ],
+  "instituto superior estudos interculturais e transdisciplinares viseu": [
+    "iseitv"
+  ],
+  "escola superior saude jean piaget viseu": [
+    "essjpv"
+  ],
+  "universidade dos acores": [
+    "uac",
+    "faculdade ciencias agrarias e ambiente universidade dos acores",
+    "fcaauac",
+    "faculdade ciencias sociais e humanas universidade dos acores",
+    "fcshuac",
+    "faculdade ciencias e tecnologia universidade dos acores",
+    "fctuac",
+    "faculdade economia e gestao universidade dos acores",
+    "feguac",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politec leiria, portalegre, porto, setubal, viana do castelo, utad",
+    "escola superior saude",
+    "essuac",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politec leiria, portalegre, porto, setubal, viana do castelo, utad",
+    "ess"
+  ],
+  "universidade madeira": [
+    "uma",
+    "faculdade artes e humanidades universidade madeira",
+    "fahuma",
+    "faculdade ciencias exatas e engenharia universidade madeira",
+    "fceeuma",
+    "faculdade ciencias sociais universidade madeira",
+    "fcsuma",
+    "faculdade ciencias vida universidade madeira",
+    "fcvuma",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politec leiria, portalegre, porto, setubal, viana do castelo, utad, uac",
+    "escola superior saude",
+    "essuma",
+    // duplicado escola superior saude inst politecnico beja, uni algarve, inst politec leiria, portalegre, porto, setubal, viana do castelo, utad, uac",
+    "ess",
+    "escola superior tecnologias e gestao",
+    "estguma",
+    // duplicado esc sup tecnologia e gestao inst politecnico beja, guarda, leiria, portalegre, polit porto, maia, viana do castelo",
+    "estg"
+  ],
+  "escola superior enfermagem sao jose cluny": [
+    "esesjc"
+  ],
+  "instituto superior administracao e linguas": [
+    "isal"
+  ]
+}
